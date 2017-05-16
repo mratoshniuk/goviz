@@ -2,7 +2,7 @@ package goimport
 
 import (
     "fmt"
-    "github.com/hirokidaichi/goviz/dotwriter"
+    "github.com/mratoshniuk/goviz/dotwriter"
     "os"
     "path/filepath"
     "strings"

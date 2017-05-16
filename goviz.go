@@ -2,9 +2,9 @@ package main
 
 import (
     "fmt"
-    "github.com/hirokidaichi/goviz/dotwriter"
-    "github.com/hirokidaichi/goviz/goimport"
-    "github.com/hirokidaichi/goviz/metrics"
+    "github.com/mratoshniuk/goviz/dotwriter"
+    "github.com/mratoshniuk/goviz/goimport"
+    "github.com/mratoshniuk/goviz/metrics"
     "github.com/jessevdk/go-flags"
     "os"
 )

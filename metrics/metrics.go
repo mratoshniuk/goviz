@@ -2,7 +2,7 @@ package metrics
 
 import (
     "fmt"
-    "github.com/hirokidaichi/goviz/dotwriter"
+    "github.com/mratoshniuk/goviz/dotwriter"
     "io"
     "sort"
 )
